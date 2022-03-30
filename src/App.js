@@ -29,7 +29,7 @@ function App() {
   return (
     <div className='WholePage'>
       <h2>Bulbasaur best boi.</h2>
-      <h2>Charmander sucks.</h2>
+      <h2>Charmander suxs to squirt squirt.</h2>
       <img src = {bulba} alt='best boi' width = '325' height = '400'></img>
       {/*can use components as custom HTML elements*/}
       <Expenses items = {expenses}/>
