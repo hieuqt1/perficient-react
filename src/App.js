@@ -28,6 +28,7 @@ function App() {
   function addExpenseHandler(expense) {
     console.log("Detected in App.js");
     console.log(expense);
+    //test merge here
   }
   return (
     <div className="WholePage">
